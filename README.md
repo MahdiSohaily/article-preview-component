@@ -1,1 +1,0 @@
-# article-preview-component
